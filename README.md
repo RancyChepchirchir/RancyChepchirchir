@@ -5,7 +5,7 @@
  
  🌱 I’m currently learning GANs (with Miguel) and deploying apps (with IBM crowdcast)
  
- 👯 I’m looking to collaborate on weekly leetcode challenges, monthly kaggle competions and Analytics Vidhya bloga/hackathons
+ 👯 I’m looking to collaborate on weekly leetcode challenges, monthly kaggle competitions and Analytics Vidhya bloga/hackathons
  
  🤔 I’m looking for help with everything..not everything..okay, most stuff..more effective data sources..just reach me
  
