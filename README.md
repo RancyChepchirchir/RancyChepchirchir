@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**RancyChepchirchir/RancyChepchirchir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 ### 🔭 I’m currently working on AI and Machine learning tutorials and projects..and on my MSc Artificial Intelligence at IUBH
 ### 🌱 I’m currently learning GANs (with Miguel) and deploying apps (with IBM crowdcast)
